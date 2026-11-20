@@ -12,6 +12,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 // Defines the completion handler with a UIBackgroundFetchResult, and decides whether the UI should be be refreshed or not
 typedef void (^SLNTaskCompletion_t)(UIBackgroundFetchResult result);

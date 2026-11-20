@@ -6,6 +6,13 @@ Selene is an iOS library which schedules the execution of tasks on a [background
 
 # Installation
 
+## Swift Package Manager
+
+In Xcode, choose **File > Add Package Dependencies**, enter
+`https://github.com/linkedin/Selene.git`, and add the `Selene` library product.
+Use the `master` branch until a release containing `Package.swift` is available.
+Swift Package Manager integration requires iOS 8.0 or later.
+
 ## CocoaPods
 
 Add to your Podfile:
@@ -72,4 +79,4 @@ In the application delegate:
 
 ---
 
-Interested? Here's the [blog post](http://engineering.linkedin.com/ios/introducing-selene-open-source-library-scheduling-tasks-ios)
+Interested? Here's the [blog post](https://www.linkedin.com/blog/engineering/open-source/introducing-selene-open-source-library-scheduling-tasks-ios)
