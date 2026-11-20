@@ -79,4 +79,4 @@ In the application delegate:
 
 ---
 
-Interested? Here's the [blog post](http://engineering.linkedin.com/ios/introducing-selene-open-source-library-scheduling-tasks-ios)
+Interested? Here's the [blog post](https://www.linkedin.com/blog/engineering/open-source/introducing-selene-open-source-library-scheduling-tasks-ios)
